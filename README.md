@@ -1,8 +1,9 @@
 <img width="600" height="377" alt="image" src="https://github.com/user-attachments/assets/5aa5d1f0-a4df-4cdd-b710-283e512a7bf5" />
 
 
+<!--
 ## Hi there 👋
-
+-->
 <!--
 **jimhuangca/jimhuangca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
